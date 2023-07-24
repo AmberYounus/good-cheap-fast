@@ -21,11 +21,7 @@ function doTheTrick(theClickedOne) {
       cheap.checked = false;
       none.checked =false
     }
-    if (none === theClickedOne) {
-      cheap.checked = false;
-      good.checked = false;
-      fast.checked = false;
-    }
+   
   }
 //   else(!none ===theClickedOne  )
 //   {
